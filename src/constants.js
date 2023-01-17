@@ -1,1 +1,1 @@
-export const BASE_URL = 'http://localhost:3009/'
+export const BASE_URL = 'https://api.npoint.io/61f6d96f1ade18d4c6f5/transactions/'

@@ -10,7 +10,7 @@ function App() {
   const lastIndex = transactions.length -1
 
   useEffect(() => {
-    fetch(BASE_URL+"transactions")
+    fetch(BASE_URL)
       .then(res => res.json())
       .then(data => {
         console.log(data);
