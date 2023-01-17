@@ -34,10 +34,9 @@ To get the code..
 ```
 ## Running the application
 5. Once in the VS Code you can ran npm start to run the React application.
- or
-
+                  Or 
 6. Open the application on your browser:https://bank-of-flatiron-eight.vercel.app/
-- You can now interact with the application and make the necessary operations
+- You can now interact with the application and make the necessary operations.
 
 ## Technology used
 - [HTML5](https://www.python.org/)
@@ -49,4 +48,4 @@ To get the code..
 Project contributed to by:[Ivy Wambugha Thoya](https://github.com/IvyW2/)
 
 ## Licence
-This project is licensed under the ISC licence
+This project is licensed under the ISC licence.
