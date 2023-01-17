@@ -34,8 +34,10 @@ To get the code..
 ```
 ## Running the application
 5. Once in the VS Code you can ran npm start to run the React application.
-                  Or 
-6. Open the application on your browser:https://bank-of-flatiron-eight.vercel.app/
+```bash
+    npm start
+```
+6. Or open the application on your browser:https://bank-of-flatiron-eight.vercel.app/
 - You can now interact with the application and make the necessary operations.
 
 ## Technology used
